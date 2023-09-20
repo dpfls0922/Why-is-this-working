@@ -34,7 +34,9 @@ XML도 마찬가지이다!
 
 ### 형식
 
-    <person><name>John</name></person>
+    <person>
+        <name>John</name>
+    </person>
 
 <br>
 
